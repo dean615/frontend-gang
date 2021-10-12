@@ -775,6 +775,7 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 - [bugly](https://bugly.qq.com/v2/)
 - [mixpanel](https://mixpanel.com/)
 - [听云](https://www.tingyun.com/)
+- [普罗米修斯Prometheus](https://prometheus.io/)
 
 推荐开源库：
 
@@ -789,6 +790,8 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 - [蚂蚁金服如何把前端性能监控做到极致?](https://www.infoq.cn/article/dxa8am44oz*lukk5ufhy)
 - [如何做前端异常监控？](https://www.zhihu.com/question/29953354)
 - [前端监控平台系列：JS SDK（已开源）](https://juejin.cn/post/6862559324632252430#heading-17)
+- [接近完美的监控系统—普罗米修斯](https://zhuanlan.zhihu.com/p/321286313)
+- [Prometheus(普罗米修斯)监控](https://www.jianshu.com/p/3bf80ef6ff0b)
 
 ## 面试
 
