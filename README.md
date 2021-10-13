@@ -99,7 +99,7 @@ All kinds of content such as front-end interviews, learning methods, excellent a
 
 ![Z0qdJz](https://yck-1254263422.file.myqcloud.com/uPic/Z0qdJz.png)
 
-这个学习方法笔者百试百灵，学习任何技术都会用上这个思路。另外我们还能通过这个思路拓宽自己的技术栈，将各个知识联系起来建立自己的知识体系，并且通过这种学习方式学到的知识也不容易遗忘。
+学习的方式很多种，一般按照这个思路来，会事倍功半。但同时要注意量的积累，自己用笔记记录学习的内容，拓宽自己的技术栈，将各个知识点进行串联，建立自己的知识体系，活到老学到老，方知学的少。
 
 ## 书籍推荐
 
@@ -112,15 +112,16 @@ All kinds of content such as front-end interviews, learning methods, excellent a
 - [JavaScript 忍者秘籍（第 2 版）](https://book.douban.com/subject/30143702/)
 - [你不知道的 JS 三卷](https://book.douban.com/subject/26351021/)，该书英文版是开源的，并且作者已经在写第二版，有能力阅读英文的读者推荐直接看 [原著](https://github.com/getify/You-Dont-Know-JS)
 - [CSS 揭秘](https://book.douban.com/subject/26745943/)
+- [深入浅出Node.js](https://book.douban.com/subject/25768396/)
 
 ### 高级
 
 - [JavaScript 悟道](https://book.douban.com/subject/35469273/)
 - [JavaScript 语言精髓与编程实践（第 3 版）](https://book.douban.com/subject/35085910/)
+- [犀牛书 -> JavaScript权威指南（第7版）](https://book.douban.com/subject/35396470/)
+- [高性能网站建设进阶指南](https://book.douban.com/subject/4719162/)
 
 以上书籍主要还是推荐了 JS 方面的，其它比如说框架、TS 等等技术会在各自章节为大家介绍。
-
-**上述书籍大家可以关注【[公众号](#作者信息)】发送「资料」获取。**
 
 ## 前端核心学习路径
 
