@@ -502,6 +502,7 @@ class Compiler {
 }
 ```
 ### 构建流程
+![image](https://user-images.githubusercontent.com/6614094/137579778-0fde59bf-3014-4b8d-80b0-797ac9c002e9.png)
 
 1. 初始化：从配置文件和shell语句读取与合并参数，得出最终参数，还会执行配置文件中的new Plugin()
 2. 开始编译：用上一步得到的参数初始化compiler对象，加载所有配置的插件，执行对象的run方法开始执行编译
@@ -550,7 +551,7 @@ webpack启动后，在读取配置的过程中会先执行new BasicPlugin(option
 1. 从入口文件开始，将各类型文件转换为js文本，将js解析为AST（抽象语法树），遍历AST的过程中，遇到新依赖就加入到依赖列表中，遍历完成后，处理依赖列表中每个js，直到处理完所有的依赖。
 2. 对非js类型的文件，图片可以转成base64，其他文件会经过指定的rule规则，对文件进行处理后（例如压缩或兼容等），按照配置在原位置动态生成引入地址
 
-![image](https://user-images.githubusercontent.com/6614094/137579538-7650fc7a-13c4-424c-95ab-44c626ddff8c.png)
+![image](https://user-images.githubusercontent.com/6614094/137579789-897f0a43-44dc-4e62-a1c5-b4593ace8e51.png)
 ![image](https://user-images.githubusercontent.com/6614094/137579584-22803d5f-b101-4faa-a211-a39ae28d28e4.png)
 
 ### 生成原理
@@ -656,10 +657,10 @@ vue-cli的默认配置
 
 ### 参考
 
-https://zhuanlan.zhihu.com/p/139498741
-https://webpack.wuhaolin.cn
-https://zhuanlan.zhihu.com/p/363928061
-https://segmentfault.com/a/1190000021494964
+- [浅谈 webpack 性能优化（内附 webpack 学习笔记）](https://zhuanlan.zhihu.com/p/139498741)
+- [深入浅出 Webpack](https://webpack.wuhaolin.cn)
+- [[万字总结] 一文吃透 Webpack 核心原理](https://zhuanlan.zhihu.com/p/363928061)
+- [webpack打包原理 ? 看完这篇你就懂了 !](https://segmentfault.com/a/1190000021494964)
 
 ## 性能优化
 
