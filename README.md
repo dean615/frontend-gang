@@ -94,11 +94,10 @@ All kinds of content such as front-end interviews, learning methods, excellent a
   - [代码样式及安全](#代码样式及安全)
 - [生产力工具](#生产力工具)
   - [流程图](#流程图)
-- [作者信息](#作者信息)
 
 ## 如何高效自学
 
-![Z0qdJz](https://yck-1254263422.file.myqcloud.com/uPic/Z0qdJz.png)
+![image](https://user-images.githubusercontent.com/6614094/137613752-99bf3695-b53b-4719-b1a3-d403f50a71ff.png)
 
 学习的方式很多种，一般按照这个思路来，会事倍功半。但同时要注意量的积累，自己用笔记记录学习的内容，拓宽自己的技术栈，将各个知识点进行串联，建立自己的知识体系，活到老学到老，方知学的少。
 
@@ -148,7 +147,7 @@ All kinds of content such as front-end interviews, learning methods, excellent a
 JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增的 `bigint`。
 
 - [ ] 文档：
-  - [ ] [JavaScript 数据类型和数据结构](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  - [ ] [JavaScript 数据类型和数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
 
 #### 类型判断
 
@@ -160,9 +159,9 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 - `isXXX`，比如 `isArray`
 
 - [ ] 文档
-  - [ ] [typeof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
-  - [ ] [instanceof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof)
-  - [ ] [Object.prototype.toString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString#using_tostring_to_detect_object_class)
+  - [ ] [typeof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/typeof)
+  - [ ] [instanceof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/instanceof)
+  - [ ] [Object.prototype.toString](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/toString#using_tostring_to_detect_object_class)
 - [ ] 推荐文章，Issue 也挺重要
   - [ ] [JavaScript 专题之类型判断(上)](https://github.com/mqyqingfeng/Blog/issues/28)
   - [ ] [JavaScript 专题之类型判断(下)](https://github.com/mqyqingfeng/Blog/issues/30)
@@ -174,7 +173,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 - [ ] 文档
   - [ ] [ES 标准](https://tc39.es/ecma262/#sec-abstract-operations)
     - 标准并不好读，如果读者英文水平欠佳，可以只阅读该小节内的表格内容。
-  - [ ] [双等判断](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality)
+  - [ ] [双等判断](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Equality)
 - [ ] 推荐文章
   - [ ] [You Don't Know JS 书中关于类型转换的一章节](https://github.com/weiqinl/You-Dont-Know-JS-CN/blob/master/types%20%26%20grammar/ch4.md)
   - [ ] [几种基本类型简单的类型转换](https://zh.javascript.info/type-conversions)
@@ -195,7 +194,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 #### 闭包
 
 - [ ] 文档
-  - [ ] [闭包](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+  - [ ] [闭包](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 - [ ] 推荐文章
   - [ ] [You Don't Know JS 第二版中对于闭包的解释](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch7.md)，该版本暂无中文翻译，读者可用 [DeepL](https://www.deepl.com/translator) 进行翻译。
   - [ ] [JavaScript 的静态作用域链与“动态”闭包链](https://juejin.cn/post/6957913856488243237)
@@ -206,8 +205,8 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 作用域是指程序中定义变量的区域，该位置决定了变量的生命周期，也就是变量和函数的可访问范围。
 
 - [ ] 文档
-  - [ ] [作用域](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
-  - [ ] [块作用域](https://developer.mozilla.org/en-US/docs/Glossary/Block/Scripting)
+  - [ ] [作用域](https://developer.mozilla.org/zh-CN/docs/Glossary/Scope)
+  - [ ] [块作用域](https://developer.mozilla.org/zh-CN/docs/Glossary/Block/Scripting)
 - [ ] 推荐文章
   - [ ] [JavaScript 深入之词法作用域和动态作用域](https://github.com/mqyqingfeng/Blog/issues/3)
   - [ ] [JavaScript 深入之作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
@@ -218,7 +217,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 #### 原型
 
 - [ ] 文档
-  - [ ] [原型](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+  - [ ] [原型](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/Object_prototypes)
 - [ ] 推荐文章
   - [ ] [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20%26%20object%20prototypes/ch5.md)
   - [ ] [深入理解 JavaScript 原型](https://mp.weixin.qq.com/s/1UDILezroK5wrcK-Z5bHOg)
@@ -230,7 +229,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 `new` 操作符可以帮助我们构建出一个实例，并且绑定上 `this`。
 
 - [ ] 文档
-  - [ ] [new](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
+  - [ ] [new](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/new)
 - [ ] 推荐文章
   - [ ] [JS 的 new 到底是干什么的？](https://zhuanlan.zhihu.com/p/23987456)
   - [ ] [JavaScript 深入之 new 的模拟实现](https://github.com/mqyqingfeng/Blog/issues/13)
@@ -249,9 +248,9 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 #### call、apply、bind
 
 - [ ] 文档
-  - [ ] [call](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)，call 的概念
-  - [ ] [apply](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)，apply 的概念
-  - [ ] [bind](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)，bind 的概念
+  - [ ] [call](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/call)，call 的概念
+  - [ ] [apply](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)，apply 的概念
+  - [ ] [bind](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/bind)，bind 的概念
 - [ ] 推荐文章
   - [ ] [JS 中的 call、apply、bind 方法详解](https://segmentfault.com/a/1190000018270750)，对这三个方法的使用、面试题及具体实现做了详解
   - [ ] [call 和 apply 的模拟实现](https://github.com/mqyqingfeng/Blog/issues/11)，模拟实现 call 和 apply，帮助更好理解
@@ -262,7 +261,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 `class` 只是原型链的语法糖，与其它语言中的类不是同一样东西。
 
 - [ ] 文档
-  - [ ] [Class](https://developer.mozilla.org/en-US/docs/Glossary/Class)
+  - [ ] [Class](https://developer.mozilla.org/zh-CN/docs/Glossary/Class)
 - [ ] 推荐文章
   - [ ] [理解 JavaScript 的类](https://www.digitalocean.com/community/tutorials/understanding-classes-in-javascript)
   - [ ] [Babel 是如何编译 Class 上](https://github.com/mqyqingfeng/Blog/issues/105)
@@ -275,7 +274,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 继承是面向对象语言（Object-Oriented Language）三大特征之一，在 JS 中也占有非常重要的地位。而想要实现继承有多种方式，它们都有各自的优缺点。
 
 - [ ] 文档
-  - [ ] [继承](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+  - [ ] [继承](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/Inheritance)
 - [ ] 推荐文章
   - [ ] [JavaScript 深入之继承的多种方式和优缺点](https://github.com/mqyqingfeng/Blog/issues/16)
   - [ ] [JavaScript 中的继承](https://medium.com/@happymishra66/inheritance-in-javascript-21d2b82ffa6f)，需自备梯子
@@ -284,7 +283,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 #### 模块化
 
 - [ ] 文档
-  - [ ] [Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+  - [ ] [Modules](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Modules)
 - [ ] 推荐文章
   - [ ] [【深度全面】前端 JavaScript 模块化规范进化论](https://segmentfault.com/a/1190000023711059)，记录了 JS 模块化的进化之路
   - [ ] [JavaScript modules](https://v8.dev/features/modules)，由浅入深解释 JS 模块化
@@ -295,7 +294,7 @@ JS 数据类型分为两大类及八种数据类型，注意别漏了 ES6 新增
 Promise 是由社区最早提出和实现的异步编程的一种解决方案。
 
 - [ ] 文档
-  - [ ] [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+  - [ ] [Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)
   - [ ] [Promises/A+ 规范](https://promisesaplus.com/)
 - [ ] 推荐文章
 - [Callbacks Vs Promises and basics of JS](https://theflyingmantis.medium.com/callbacks-vs-promises-and-basics-of-js-80d3d1515e81)，需自备梯子
@@ -307,7 +306,7 @@ Promise 是由社区最早提出和实现的异步编程的一种解决方案。
 #### 迭代器与生成器
 
 - [ ] 文档
-  - [ ] [迭代器与生成器](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators)
+  - [ ] [迭代器与生成器](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Iterators_and_Generators)
 - [ ] 推荐文章
   - [ ] [[译] 什么是 JavaScript 生成器？如何使用生成器？](https://juejin.cn/post/6844903616357072910)
   - [ ] [Understanding Generators in ES6 JavaScript with Examples](https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5)，需自备梯子
@@ -318,7 +317,7 @@ Promise 是由社区最早提出和实现的异步编程的一种解决方案。
 大家都知道 JS 是一门单线程的非阻塞的脚本语言。这也就意味着，代码在执行的任何时候只有一个主线程来处理所有的任务。所以弄懂事件循环机制对我们学习 JS 至关重要。
 
 - [ ] 文档
-  - [ ] [事件循环](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+  - [ ] [事件循环](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 - [ ] 推荐文章
   - [ ] [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.cn/post/6844903512845860872)
   - [ ] [一次弄懂 Event Loop](https://juejin.cn/post/6844903764202094606)
@@ -368,7 +367,7 @@ JavaScrip 在变量被创建时分配内存，并在对象不再使用时自动�
 html 语义化就是让页面的内容结构化，便于对浏览器、搜索引擎解析。在没有引入样式 CCS 样式的时候也能以一种可以分辨出来大致表示内容的文档格式显示，并且是容易阅读的。 搜索引擎的爬虫依赖于标记来确定上下文和各个关键字的权重，利于 SEO。 使阅读源代码的人对网站更容易将网站分块，便于阅读维护理解。
 
 - [ ] 文档
-  - [ ] [HTML 中的语义](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html)，什么是 HTML 语义化，HTML 语义化有什么好处
+  - [ ] [HTML 中的语义](https://developer.mozilla.org/zh-CN/docs/Glossary/Semantics#semantics_in_html)，什么是 HTML 语义化，HTML 语义化有什么好处
 - [ ] 推荐文章
   - [ ] [IFE-NOTE：页面结构语义化](https://rainylog.com/post/ife-note-1/)，HTML5 语义化中的页面结构语义化的一些经验和理解
   - [ ] [关于 HTML 语义和前端架构](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)，HTML 语义化在开发中配合 CSS 结构化类名的使用构建可重用和可组合的组件
@@ -383,7 +382,7 @@ html 语义化就是让页面的内容结构化，便于对浏览器、搜索引
 在 CSS 中，所有的元素都被一个个的“盒子（box）”包围着，我们广泛地使用两种“盒子” —— 块级盒子 (block box) 和 内联盒子 (inline box)，理解这些“盒子”的基本原理，是我们使用 CSS 实现准确布局、处理元素排列的关键。
 
 - [ ] 文档
-  - [ ] [CSS 盒子模型](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)，官方文档深入了解 CSS 盒子模型
+  - [ ] [CSS 盒子模型](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/The_box_model)，官方文档深入了解 CSS 盒子模型
 - [ ] 推荐文章
   - [ ] [CSS 盒模型之内边距、边框、外边距 十九问](https://juejin.cn/post/6880111680153059341)，通过举例说明盒子模型各种常见形态和问题
   - [ ] [CSS Box Model](https://www.w3.org/TR/css-box-3/)，盒子模型的一些规范介绍
@@ -396,7 +395,7 @@ CSS 中，选择器用来指定网页上我们想要样式化的 HTML 元素。C
 CSS 选择器是 CSS 规则的第一部分。它是元素和其他部分组合起来告诉浏览器哪个 HTML 元素应当是被选为应用规则中的 CSS 属性值的方式。选择器所选择的元素，叫做“选择器的对象”。
 
 - [ ] 文档
-  - [ ] [CSS 选择器](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)，官方文档详细地讲授选择器的不同使用方式，并了解它们的工作原理。
+  - [ ] [CSS 选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors)，官方文档详细地讲授选择器的不同使用方式，并了解它们的工作原理。
 - [ ] 推荐文章
   - [ ] [30 个你必须熟记的 CSS 选择器](https://code.tutsplus.com/zh-hans/tutorials/the-30-css-selectors-you-must-memorize--net-16048)，开发中常用的 CSS 选择器，熟练掌握以后可以很大程度提高 CSS 的编码体验
   - [ ] [深入解析 CSS 样式优先级](https://cloud.tencent.com/developer/article/1545341)，详细介绍了 CSS 样式的权重优先级，避免写重复样式和样式被覆盖不生效的问题
@@ -404,7 +403,7 @@ CSS 选择器是 CSS 规则的第一部分。它是元素和其他部分组合�
 #### Flex
 
 - [ ] 文档
-  - [ ] [flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+  - [ ] [flexbox](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [ ] 推荐文章
   - [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [ ] [Flexbox 布局中不为人知的细节](https://juejin.cn/post/6938292463605907492)
@@ -414,7 +413,7 @@ CSS 选择器是 CSS 规则的第一部分。它是元素和其他部分组合�
 #### grid
 
 - [ ] 文档
-  - [ ] [grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+  - [ ] [grid](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
 - [ ] 推荐文档
   - [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
   - [ ] [最强大的 CSS 布局 —— Grid 布局](https://juejin.cn/post/6854573220306255880)
@@ -462,7 +461,7 @@ CSS 选择器是 CSS 规则的第一部分。它是元素和其他部分组合�
 
 ### 浏览器安全
 
-- [文档](https://developer.mozilla.org/en-US/docs/Web/Security)
+- [文档](https://developer.mozilla.org/zh-CN/docs/Web/Security)
 - [一文读懂 Web 安全](https://segmentfault.com/a/1190000023396707)，简单介绍了一些前端需要注意的安全知识
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)，如果你对安全领域有兴趣，可以阅读下这个仓库的内容
 
@@ -711,8 +710,8 @@ Virtual DOM 也就是虚拟节点。通过 JS 的 Object 对象模拟 DOM 中的
 路由在 SPA 架构中都有被用到，实际原理就是运用 `hash` 及 `history` 相关的 API 实现。
 
 - 文档
-  - [hashchange](https://developer.mozilla.org/en-US/docs/Web/API/Window/hashchange_event)
-  - [history](https://developer.mozilla.org/en-US/docs/Web/API/History)
+  - [hashchange](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/hashchange_event)
+  - [history](https://developer.mozilla.org/zh-CN/docs/Web/API/History)
 - 推荐文章
   - [前端路由简介以及 vue-router 实现原理](https://zhuanlan.zhihu.com/p/37730038)，对前端路由及 Vue-Route 库原理做了解释，**几个框架的路由库原理都一致**
 
