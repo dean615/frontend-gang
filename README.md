@@ -1030,4 +1030,4 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 普通版本
 - [Xmind]
 境外版本
-- [whimsical](https://whimsical.com/)0000000000000000000000
+- [whimsical](https://whimsical.com/)
