@@ -101,6 +101,10 @@ All kinds of content such as front-end interviews, learning methods, excellent a
 
 学习的方式很多种，一般按照这个思路来，会事倍功半。但同时要注意量的积累，自己用笔记记录学习的内容，拓宽自己的技术栈，将各个知识点进行串联，建立自己的知识体系，活到老学到老，方知学的少。
 
+![image](https://user-images.githubusercontent.com/6614094/138561863-3e0fca1d-e512-4acc-8ee2-47f9bf7b7d9b.png)
+
+笔者在b站收藏一个前端up主，一些前端基础可以通过看视频，听讲解拆分的知识点或项目实战。
+
 ## 书籍推荐
 
 ### 初级
