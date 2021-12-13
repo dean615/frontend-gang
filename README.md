@@ -882,7 +882,7 @@ Electron 是一个可以使用 Web 技术如 JavaScript、HTML 和 CSS 来创建
 
 文档
 
-- [Electron 官网](https://www.electronjs.org/)
+- [Electron 官网](https://www.electronjs.org/zh/docs/latest/)
 - [Electron 中文教程](https://weishuai.gitbooks.io/electron-/content/)
 
 推荐文章
